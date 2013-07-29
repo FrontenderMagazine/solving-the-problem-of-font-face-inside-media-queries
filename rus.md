@@ -369,7 +369,7 @@ JavaScript, подключённый шрифт загрузится у тех, 
 [15]: http://gs.statcounter.com/#browser_version_partially_combined-ww-monthly-201306-201306-bar
 [16]: http://timkadlec.com/
 [17]: http://aurelio.audero.it/blog/wp-content/uploads/2013/07/font-face-demo.zip
-[18]: #obnovlenie-ot-a-href-http-timkadlec-com-tima-kadleka-tim-kadlec-a-
+[18]: #obnovlenie-ot-tima-kadleka-tim-kadlec-
 
 [блок пустого пространства там, где должен быть контент]: img/aeon-megazine-mobile.png
 [подключённый шрифт не скачивается если он не используется на сайте]: img/chrome-does-not-load-font-for-mobile-1024x594.png
